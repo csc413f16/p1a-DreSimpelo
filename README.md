@@ -1,8 +1,8 @@
-Name:
+Name: Andre Simpelo
 
-Compilation and Run Successful:
+Compilation and Run Successful: Tests ran to completion
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Test ran to completion
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
